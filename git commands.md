@@ -8,3 +8,4 @@
         git remote add origin git://github.com/username/Web-App.git
   ### Public repository
         git remote add origin https://github.com/username/web-app.git
+  git push -u origin main
