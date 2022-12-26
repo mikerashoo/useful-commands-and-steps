@@ -16,3 +16,9 @@
   ```
   ### Changing repository url
     git remote set-url origin git://github.com/username/Web-App.git
+    
+  ### checking out pr
+     ```
+         git fetch origin pull/$prId/head
+         git switch branch-name
+     ```
